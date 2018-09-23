@@ -1,0 +1,16 @@
+C:\Users\rnayyar\source\repos\WcfServiceHotel\WcfServiceHotel\bin\WcfServiceHotel.dll.config
+C:\Users\rnayyar\source\repos\WcfServiceHotel\WcfServiceHotel\bin\WcfServiceHotel.dll
+C:\Users\rnayyar\source\repos\WcfServiceHotel\WcfServiceHotel\bin\WcfServiceHotel.pdb
+C:\Users\rnayyar\source\repos\WcfServiceHotel\WcfServiceHotel\bin\Cassandra.dll
+C:\Users\rnayyar\source\repos\WcfServiceHotel\WcfServiceHotel\bin\LZ4.dll
+C:\Users\rnayyar\source\repos\WcfServiceHotel\WcfServiceHotel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rnayyar\source\repos\WcfServiceHotel\WcfServiceHotel\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rnayyar\source\repos\WcfServiceHotel\WcfServiceHotel\bin\Microsoft.Extensions.Logging.dll
+C:\Users\rnayyar\source\repos\WcfServiceHotel\WcfServiceHotel\bin\Cassandra.xml
+C:\Users\rnayyar\source\repos\WcfServiceHotel\WcfServiceHotel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\rnayyar\source\repos\WcfServiceHotel\WcfServiceHotel\bin\Microsoft.Extensions.Logging.xml
+C:\Users\rnayyar\source\repos\WcfServiceHotel\WcfServiceHotel\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\rnayyar\source\repos\WcfServiceHotel\WcfServiceHotel\obj\Debug\WcfServiceHotel.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\source\repos\WcfServiceHotel\WcfServiceHotel\obj\Debug\WcfServiceHotel.dll
+C:\Users\rnayyar\source\repos\WcfServiceHotel\WcfServiceHotel\obj\Debug\WcfServiceHotel.pdb
+C:\Users\rnayyar\source\repos\WcfServiceHotel\WcfServiceHotel\obj\Debug\WcfServiceHotel.csprojResolveAssemblyReference.cache
